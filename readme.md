@@ -22,13 +22,13 @@ File is a FileInfo.  If the extension is PDF it will save as PDF...  Something e
 ```
 
 ## EXAMPLES:
-SQL:
+### SQL:
 select * from northwind.categories
 
-## PDF:
+### PDF:
 
 ![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/master/pdf_example.PNG "Example Screen Shot")
 
-## EXCEL:
+### EXCEL:
 
 ![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/master/excel_example.PNG "Example Screen Shot")
