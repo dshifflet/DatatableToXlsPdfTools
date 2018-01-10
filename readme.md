@@ -21,12 +21,14 @@ DataTableToXlsPdf.ToFile(dataTable, file);
 File is a FileInfo.  If the extension is PDF it will save as PDF...  Something else it will save as an excel file (.XLSX)
 ```
 
-##EXAMPLES:
+## EXAMPLES:
 SQL:
 select * from northwind.categories
 
-PDF:
+## PDF:
+
 ![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/master/pdf_example.PNG "Example Screen Shot")
 
-EXCEL:
+## EXCEL:
+
 ![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/master/excel_example.PNG "Example Screen Shot")
