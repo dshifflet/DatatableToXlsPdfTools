@@ -10,13 +10,13 @@ ______      _      _____     _     _    _____    __   ___     ______   _  __
 ```
 
 ## OVERVIEW:
-A class library for taking a datatable and converting it to a Microsoft Excel XLSX or a PDF file.  The PDF file generated using the Microsoft Excel export, not PrintToPdf!
+A class library for taking a datatable and converting it to a Microsoft Excel XLSX or a PDF file.  The PDF file generated is using the Microsoft Excel export, not PrintToPdf!
 
-*** THIS DOES REQUIRE MICROSOSFT EXCEL TO BE INSTALLED ***
+*** THIS DOES REQUIRE MICROSOFT EXCEL TO BE INSTALLED ***
 
 USAGE:
 Look at the test but basically it's this...
 ```
 DataTableToXlsPdf.ToFile(dataTable, file);
-File is a FileInfo.  The extension either .PDF or something else...  Something else it will save as an excel file (.XLSX)
+File is a FileInfo.  If the extension is PDF it will save as PDF...  Something else it will save as an excel file (.XLSX)
 ```
