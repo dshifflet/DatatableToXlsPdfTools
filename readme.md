@@ -26,7 +26,7 @@ SQL:
 select * from northwind.categories
 
 PDF:
-![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/blob/master/pdf_example.png "Example Screen Shot")
+![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/master/pdf_example.PNG "Example Screen Shot")
 
 EXCEL:
-![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/blob/master/excel_example.png "Example Screen Shot")
+![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/master/excel_example.PNG "Example Screen Shot")
