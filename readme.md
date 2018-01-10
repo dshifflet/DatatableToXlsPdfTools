@@ -20,3 +20,13 @@ Look at the test but basically it's this...
 DataTableToXlsPdf.ToFile(dataTable, file);
 File is a FileInfo.  If the extension is PDF it will save as PDF...  Something else it will save as an excel file (.XLSX)
 ```
+
+##EXAMPLES:
+SQL:
+select * from northwind.categories
+
+PDF:
+![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/master/pdf_example.png "Example Screen Shot")
+
+EXCEL:
+![alt text](https://raw.githubusercontent.com/dshifflet/DatatableToXlsPdfTools/master/excel_example.png "Example Screen Shot")
