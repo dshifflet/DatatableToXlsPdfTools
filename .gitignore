@@ -324,3 +324,11 @@ ASALocalRun/
 #connection strings
 *connectionStrings.config
 *dataSources.config
+
+# vs settings
+*/sqlite3/db.lock
+*/sqlite3/storage.ide
+*/sqlite3/storage.ide-wal
+*/sqlite3/storage.ide-shm
+*/.vs/*
+.vs/*
